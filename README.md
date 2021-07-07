@@ -13,4 +13,4 @@ use of a MySQL Database to store and receive data pertaining to the application.
 6. Teams view, showing a list of all teams
 7. Team details, informing users of team mates preferred contact method.
 
-The program at https://github.com/jeongsilb/ToDoList.Teammy/tree/master/teammy/teammy
+The code for the program is at https://github.com/jeongsilb/ToDoList.Teammy/tree/master/teammy/teammy
