@@ -14,6 +14,16 @@ use of a MySQL Database to store and receive data pertaining to the application.
 7. Team details, informing users of team mates preferred contact method.
 
 The code for the program is at https://github.com/jeongsilb/ToDoList.Teammy/tree/master/teammy/teammy
+The Home page
+![image](https://user-images.githubusercontent.com/55296311/124931050-dafa6780-dfcf-11eb-84b9-714eda390824.png)
+The Project Details Page
+![image](https://user-images.githubusercontent.com/55296311/124930846-aab2c900-dfcf-11eb-95c9-48482ab79703.png)
+The Schedule Page
+![image](https://user-images.githubusercontent.com/55296311/124930966-c3bb7a00-dfcf-11eb-9f77-f89afdf6f7ae.png)
+
+ 
+
+
 
 Installation Instructions:
 1.	Visit the website Install Teammy. You should be presented with a website that looks like so.
